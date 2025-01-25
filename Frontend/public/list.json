@@ -1,0 +1,218 @@
+[
+    {
+        "id":1,
+        "name":"DSA",
+       
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":2,
+        "name":"Economics ",
+        
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":3,
+        "name":"Discrete Mathematics",
+        
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":4,
+        "name":" Computer Statistics",
+        
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":5,
+        "name":"Digital Electronics",
+        
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":6,
+        "name":"Automata Theory",
+       
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":7,
+        "name":"OOPs in C++",
+        
+        "price":0,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":8,
+        "name":"Computer Architecture",
+        
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":9,
+        "name":" IP Management",
+        
+        "price":0,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":10,
+        "name":"Biology",
+        
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":11,
+        "name":"EVS",
+       
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":12,
+        "name":"OS",
+       
+        "price":0,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":13,
+        "name":"Networks",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":14,
+        "name":"DBMS",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":15,
+        "name":"Software Engineering",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":16,
+        "name":"ML",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":17,
+        "name":"AI",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":18,
+        "name":"Business Strategy",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":19,
+        "name":"DAA",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":20,
+        "name":"Pattern Recognition",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":21,
+        "name":"DMA",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":22,
+        "name":"Image Processing",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":23,
+        "name":"Cyber Law Ethics",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    },
+    {
+        "id":24,
+        "name":"C language",
+       
+        "price":10,
+        "category":"Offer Price",
+        "image":"https://img.freepik.com/free-vector/e-learning-education-process-training-application_335657-3121.jpg?t=st=1724573636~exp=1724577236~hmac=def2e83a425a3b067a43e8d7c59cae9bbb682d7b95a9b01ca72106a67523a968&w=996"
+
+    }
+]
